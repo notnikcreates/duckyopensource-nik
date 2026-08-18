@@ -1,5 +1,5 @@
 # Ducky V1 open source 
-changes made to this repository are strictly owned by **nik fried chicken, S.R.L.S.**
+changes made to this forked repository are strictly owned by **nik fried chicken, S.R.L.S.**
 
 This is the source code of Ducky V1.
 
