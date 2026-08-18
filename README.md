@@ -1,4 +1,5 @@
-# Ducky V1 open source
+# Ducky V1 open source 
+changes made to this repository are strictly owned by **nik fried chicken, S.R.L.S.**
 This is the source code of Ducky V1.
 
 Licensed under the [GNU Affero General Public License v3.0](LICENSE).
